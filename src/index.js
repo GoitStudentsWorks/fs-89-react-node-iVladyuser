@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate persistor={persistor}>
-        <BrowserRouter basename="/drink_Master-React_Node-frontend">
+        <BrowserRouter basename="/fs-89-react-node-iVladyuser">
           <GlobalStyle />
           <App />
         </BrowserRouter>
